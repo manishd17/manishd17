@@ -3,9 +3,10 @@
 -  I’m currently learning Goland and Kubernetes🌱
 -  I’m looking to collaborate on open source project related to kubernetes and java as well💞️ 
 -   you can contact me on-📫
--   Twitter-https://twitter.com/manish17mj
--   LinkedIn-https://www.linkedin.com/in/manish-jha-9a2b78227/
+-   Twitter- https://twitter.com/manish17mj
+-   LinkedIn- https://www.linkedin.com/in/manish-jha-9a2b78227/
 -   Gmail- jham17820@gmail.com
+-  stay tuned..
  
 
 <!---

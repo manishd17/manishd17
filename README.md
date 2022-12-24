@@ -1,6 +1,6 @@
 -  Hi,👋 I’m manish jha
 -  I’m interested in DevOps and learning about new technologies 
--  I’m currently learning Goland and Kubernetes🌱
+-  I’m currently learning Golang and Kubernetes🌱
 -  I’m looking to collaborate on open source project related to kubernetes and java as well💞️ 
 -   you can contact me on-📫
 -   Twitter- https://twitter.com/manish17mj
